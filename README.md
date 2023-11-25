@@ -7,7 +7,7 @@ Link to original Paper : [link](https://github.com/jackiejoe45/population-modell
 
 ### Model
 The models used here are the **Logistic** and **Exponential** Models.
-Find the code for Replication here : [link]()
+Find the code for Replication here : [link](/Replication.m)
 
 ![Original Graph](/Original_Graph.jpeg)  ![Replicated Graph](/Replicated_Graph.jpeg)
 
